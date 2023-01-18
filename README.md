@@ -15,7 +15,7 @@ Technologies
 
 ## 💻 D.S and I.T technical 🖱 ##
 
-Realizado como Trabalho de Conclusão 
-de Curso em minha formação acadêmica 
-ao longo de 2020, como desenvolvedor 
-de sistemas e técnico em informática.
+Carried out as Course Completion
+Work in my academic training 
+throughout 2020, as a systems 
+developer and computer technician.
