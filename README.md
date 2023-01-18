@@ -1,6 +1,6 @@
 # SmartComparison
 
-Website de comparação de produtos
+Product comparison website ⚖
 
 Technologies
 
